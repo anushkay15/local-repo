@@ -1,1 +1,1 @@
-This is s local repo.
+This is a local repo.
